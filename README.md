@@ -1,4 +1,4 @@
-##sb_js 2023 © Copyright Sourav Bishai
+## sb_js 2023 © Copyright Sourav Bishai
 
 ## This is a React version of sb_js javascript library
 
