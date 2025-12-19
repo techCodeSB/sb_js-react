@@ -1,0 +1,26 @@
+{
+  "name": "sb_js-react",
+  "version": "0.0.3",
+  "description": "sb_js is a javascript library for react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/techCodeSB/sb_js-react.git"
+  },
+  "keywords": [
+    "custom attribute",
+    "sb_js",
+    "sb_js",
+    "SbJs",
+    "Sb_Js"
+  ],
+  "author": "sourav bishai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/techCodeSB/sb_js-react/issues"
+  },
+  "homepage": "https://github.com/techCodeSB/sb_js-react#readme"
+}
