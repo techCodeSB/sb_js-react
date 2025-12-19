@@ -1,6 +1,6 @@
 {
   "name": "sb_js-react",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "A Javascript library for style HTML elemtnt using custome attributes.",
   "main": "index.js",
   "scripts": {
