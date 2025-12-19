@@ -1,7 +1,7 @@
 {
   "name": "sb_js-react",
   "version": "0.0.3",
-  "description": "sb_js is a javascript library for react",
+  "description": "A Javascript library for style HTML elemtnt using custome attributes.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -17,7 +17,7 @@
     "SbJs",
     "Sb_Js"
   ],
-  "author": "sourav bishai",
+  "author": "Sourav Bishai",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/techCodeSB/sb_js-react/issues"
